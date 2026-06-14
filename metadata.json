@@ -1,0 +1,8 @@
+{
+  "name": "Apex Analysis Platform",
+  "description": "Premium multi-domain analytics platform for predictive sports modeling, real-time science dashboards, and role-based data insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
